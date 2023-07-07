@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical1Friday8am</string>
+    <string name="rollInstructionTxt">Press \"Roll\" to roll your dice</string>
+    <string name="rollBtnTxt">Roll</string>
+</resources>
